@@ -1,10 +1,10 @@
 language: ruby
 rvm:
-- 2.1.2
+- 2.2.5
 deploy:
   provider: heroku
   api_key:
-    secure: T/rkhibwg2EBQhDVff/E04HWIJVivfR6vNq7aGQUq2cMizDQgi4657ykyQxljHmyrdRFdY7DuPc76qj4Zo+wTxH9OiZPrDHaxacxn8Kd6xPH4asZDsL9oiFf8dEVWS2XOIPwDHLykHr4LIcxoiepqlpGPQ1UREi/DynUJ6umgaY=
-  app: mighty-river-7140
+    secure: H2K8JAQED7/xVzuY3gSCzAdtsKa4wEJ1YUyHB987SfA9znUi8n83BqA68QVe2Fk25PKx0QTH5HMqySMmQf+TJW9A1X5uayk2Df+rdGXCV64forK/VvG35fLpUM3ioE3m80rFGQo9n92OMFSYAnTi4+8jQ79rxZgqq49KJOKYWc9cgJbwdtaEE3XEn/CSDx5nE4YDyglOD+6EknzOnLa0JbkYdeADwgox91wzkoDMfU8ui2GCkkEKch0V7Z/biYcgyPg2RoaJKBaWCRmC98PeIzmO0gpvPm/xREhptxb5r/ySx/G4wXurmUVF7ZSK+FpxrABsJ/26DOCYxgFCRMvk1c2ZZQcgsYTuEmDfY8LOEoM/jArJ/iy1JkCdC/zX10WVK1ix83w2lAu6g0wgKUJtQ1A1t8ItEvEXcl54G8oPE7+Z6xvXp8tyTOIA+j5m7RN5MKkJAdfkpSWme3ZPLDF9PX87b78Lql75qHyvIEhxkJQjT5Sy3oNqhwMxwgK1+RbarWVM70EwvVBrh/MNTcx7mXUMfrxKq+ac6F+pef50x+aj/kBMTj68uh7z5MmI/5ZwOgw1nRXC7e4M1hLZiIdDpkkKIh61BU3oEgvgbmxZ4D2rpTzOLT4ieuZ5a4mHVvMBb3CJnJ0qMfNsdCstjzLLXLRjC+VO8A2N5L3J0P1idkg=
+  app: agile-ravine-88619
   on:
-    repo: ryuichiueda/rakuten_enpit_example
+    repo: itomasameteo/rakuten_enpit_example
